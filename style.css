@@ -299,14 +299,14 @@ button {
 
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 750px) {
     .container {
-        width: 375px;
+        width: 100%;
         font-size: 14px;
     }
 
     .logo {
-        width: 60px;
+        width: 60%x;
     }
     .nav{
         padding-right: 25px;
@@ -318,8 +318,8 @@ button {
         margin: 10px 5px;
     }
     .intro{
-        width: 350px;
-        padding: 10px 20px;
+        width: 70%;
+        padding: 10px 15%;
     }
 
     .intro h1 {
@@ -332,7 +332,7 @@ button {
     
 
     .intro img {
-        width: 250px;
+        width: 90%;
     }
 
     .row-2 {
@@ -421,9 +421,7 @@ button {
 
     .footer-content .social-icons {
         padding-top: 100px;
-        padding-left: 110px;
+        padding-left: 40%;
     }
-
-
 
 }
