@@ -175,6 +175,7 @@ button {
     background-color: hsl(219, 30%, 18%);
     margin-right: 30px;
     z-index: 1;
+    border-radius: 5%;
 }
 
 .col-3 .profile {
