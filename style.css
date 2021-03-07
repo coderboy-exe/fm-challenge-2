@@ -391,7 +391,7 @@ button {
 
     .row-1 input,
     .row-1 button {
-        margin: 10px 10%;
+        margin: 10px 0;
         width: 300px;
     }
 
