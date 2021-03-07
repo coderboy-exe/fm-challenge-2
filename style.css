@@ -391,8 +391,8 @@ button {
 
     .row-1 input,
     .row-1 button {
-        margin: 10px 10px;
-        width: 70%;
+        margin: 10px 10%;
+        width: 300px;
     }
 
     .footer {
